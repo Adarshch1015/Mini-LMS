@@ -3,3 +3,4 @@ prd_content_full.txt
 prd_content.txt
 node_modules
 backend/uploads/
+.env
